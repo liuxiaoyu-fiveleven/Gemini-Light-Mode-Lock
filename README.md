@@ -1,4 +1,4 @@
-<p align="center">	<img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/e8cf34b9-437c-4eb2-b96f-6d43b5700c4f" class=""></p>
+<p align="center">	<a href="chromewebstore.google.com/detail/pefokhmklcoicnoahhgbiefjlmldmmko"><img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/e8cf34b9-437c-4eb2-b96f-6d43b5700c4f" class=""></a></p>
 
 <h1 align="center"><a href="chromewebstore.google.com/detail/pefokhmklcoicnoahhgbiefjlmldmmko">Gemini Light Mode Lock</a></h1>
 
