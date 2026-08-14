@@ -6,9 +6,8 @@
 
 <img width="1280" height="800" alt="Gemini Light Mode Lock" src="https://github.com/user-attachments/assets/c0c3348b-06b7-4835-ad75-c12585eed6b6">
 
-<h1><strong style="background-color: transparent; color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px;"><br></strong></h1>
 
-**Privacy Policy**
+<sup>Privacy Policy</sup>
 
 **Data Collection and Use:** The extension only processes Gemini theme attributes to enforce light mode. It collects no personal, sensitive, browsing, or usage data.
 
