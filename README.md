@@ -4,7 +4,7 @@
 
 **Lock Gemini in Light Mode.Even if the network environment changes or your login session expires, this extension keeps Gemini in light mode without manual setup.**
 
-<img width="1280" height="800" alt="Gemini Light Mode Lock" src="https://github.com/user-attachments/assets/c0c3348b-06b7-4835-ad75-c12585eed6b6">
+<a href="https://chromewebstore.google.com/detail/pefokhmklcoicnoahhgbiefjlmldmmko"><img width="1280" height="800" alt="Gemini Light Mode Lock" src="https://github.com/user-attachments/assets/c0c3348b-06b7-4835-ad75-c12585eed6b6" class=""></a>
 
 **Privacy Policy**
 
